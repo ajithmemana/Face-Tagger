@@ -15,4 +15,12 @@
         android:layout_marginLeft="32dp"
         android:background="@drawable/camera_icon3" />
 
+    <Button
+        android:id="@+id/galleryButton"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/cameraButton"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/gallery_icon" />
+
 </RelativeLayout>
